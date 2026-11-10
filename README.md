@@ -38,6 +38,6 @@ Six months of funded work from June 2027: design and simulator first, then the c
 
 ## Contact
 
-Baptiste Bohelay, Android developer based in Berlin. [contact email]
+Baptiste B, developer based in Berlin. contact@lebaptiste.com
 
 English, Deutsch, français.
